@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ContadorPost" />
-        <activity android:name=".ContadorRunOnUiThread"></activity>
+        <activity android:name=".ContadorRunOnUiThread" />
+        <activity android:name=".ContadorHandler"></activity>
     </application>
 
 </manifest>

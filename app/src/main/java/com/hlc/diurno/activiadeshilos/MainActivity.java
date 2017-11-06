@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity {
         Intent contador = new Intent(this, ContadorRunOnUiThread.class);
         startActivity(contador);
     }
+
+    public void contadorHandler(View v){
+        Intent contador = new Intent(this, ContadorHandler.class);
+        startActivity(contador);
+    }
 }
