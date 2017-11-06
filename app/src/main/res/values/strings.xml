@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActiviadesHilos</string>
+    <string name="contadorPost">Contador con Post</string>
+    <string name="contadorrunOnUiThread">Contador con runOnUiThread</string>
+</resources>
